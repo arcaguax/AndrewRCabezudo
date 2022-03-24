@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndrewRCabezudo
 - 👀 I’m interested in technology X art ... graphics | vision | audio | ML
 - 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... intersting and fun projects
 - 📫 How to reach me arcabezudo@dons.usfca.edu
 
 <!---
