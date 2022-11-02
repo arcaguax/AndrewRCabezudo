@@ -1,4 +1,4 @@
-- Hi, I’m Andrew
+- Hi, I’m Andres
 - I’m interested in technology & art ... graphics | vision | audio | ML
 - arcabezudo@dons.usfca.edu
 
